@@ -9,6 +9,6 @@ greeting = "Hello, my dear friend"
 
 print(greeting, names[0] + ".")
 
-# Using a loop
+# Using a for loop
 for name in names:
     print(greeting, name + "!")

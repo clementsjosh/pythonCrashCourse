@@ -9,3 +9,5 @@ print("I use my", modesOfTransport[0], "daily.")
 print("I have my", modesOfTransport[1], "license.")
 print("Lots of folks from Virginia use the", modesOfTransport[2], "to commute to DC.")
 print("Flying an", modesOfTransport[3], "is great, but helicopters are better.")
+
+# I can see how this would be better with a dictionary... 

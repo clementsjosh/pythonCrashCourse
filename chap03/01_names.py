@@ -10,6 +10,6 @@ print(nameList[1].title())
 print(nameList[2].title())
 print(nameList[3].title())
 
-# Better version
+# More efficient version, but for loops haven't been introduced, yet. 
 for name in nameList: 
     print(name.title())
